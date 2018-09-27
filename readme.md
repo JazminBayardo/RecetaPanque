@@ -5,4 +5,4 @@ Este repositorio nos ayuda a introducirnos a Git/Github
 Vamos a ver como se hace un panque 
 
 #Colision local
-Nuevo 
+Colocamos para poder seleccionar lo que quermemos
